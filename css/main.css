@@ -1,0 +1,39 @@
+.form{
+  padding-top: 50px;
+}
+
+.form__input{
+  margin-right: 20px;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  border:none;
+  border:1px solid red;
+  border-radius: 10px;
+  margin-left:500px;
+}
+
+.form__button{
+  border:none;
+  background-color: aqua;
+  border:1px solid aqua;
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+.form__button:hover{
+  background-color: red;
+  border:1px solid red;
+}
+
+.form__list{
+  list-style: none;
+}
+
+.form__item{
+  margin: 5px;
+  padding: 5px;
+  border :1px solid grey;
+  border-radius: 10px;
+  background-color: coral;
+  width: 200px;
+}
