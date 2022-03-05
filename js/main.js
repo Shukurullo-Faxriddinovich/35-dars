@@ -30,7 +30,7 @@ elForm.addEventListener("submit" , function(evt){
     
     elList.appendChild(newLi);
   }
-
+ console.log(todos);
 });
 
 
